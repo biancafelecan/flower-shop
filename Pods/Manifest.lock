@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.8.1)
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Masonry
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - Masonry
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: 9b28299f1c5a17e013875ebc97fc22e2eb016373
+
+COCOAPODS: 1.5.0
